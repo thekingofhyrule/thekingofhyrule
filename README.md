@@ -1,6 +1,7 @@
 ## Welcome to my Github! 
 ### My name is James and I am a Cloud Engineer who also enjoys programming
-Most of my personal projects can be found on my blog - simplestudios.net
+Most of my personal projects can be found on my blog - [simplestudios](simplestudios.net)
+The blog is defintaly a work in progress as I am uising it to learn web dev as well. 
 
 <!--
 **thekingofhyrule/thekingofhyrule** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
