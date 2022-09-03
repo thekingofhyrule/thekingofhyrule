@@ -1,5 +1,5 @@
 ## Welcome to my Github! 
-### My name is James and I am a Cloud Engineer who also enjoys programming
+###
 <!--
 **thekingofhyrule/thekingofhyrule** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
